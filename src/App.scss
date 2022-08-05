@@ -1,0 +1,7 @@
+.body{
+  width: 100vw;
+  background-color: aqua;
+  @media screen and (max-width:767px) {
+    background-color: red;
+  }
+}
