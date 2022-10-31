@@ -21,17 +21,7 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
-    '@typescript-eslint/explicit-module-boundary-types': ['off'],
-    '@typescript-eslint/no-explicit-any': ['off'],
-    '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
-    '@typescript-eslint/ban-types': ['error'],
-    '@typescript-eslint/no-extra-semi': ['off'],
-    'react/prop-types': ['off'],
-    'react-hooks/exhaustive-deps': ['off'],
-    'react/display-name': 'off',
-    'react/jsx-uses-react': 'off',
-    'react/react-in-jsx-scope': 'off',
-    'no-prototype-builtins': ['off'],
+
     quotes: [
       'warn',
       'single',
