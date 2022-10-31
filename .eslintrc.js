@@ -21,7 +21,6 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
-
     quotes: [
       'warn',
       'single',
