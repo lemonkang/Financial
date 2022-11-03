@@ -21,11 +21,7 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
-    quotes: [
-      'warn',
-      'single',
-      { allowTemplateLiterals: true, avoidEscape: true }
-    ],
+
     semi: ['warn', 'never'],
     'no-console': ['warn', { allow: ['warn', 'error'] }]
   }
