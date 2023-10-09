@@ -3,7 +3,8 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-    two
+    <h2>main</h2>
+
     </div>
   )
 }
