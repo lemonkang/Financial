@@ -3,9 +3,7 @@ import React from 'react'
 const Two = () => {
   return (
     <div>
-      <div>
-        six
-      </div>
+     完成
     </div>
   )
 }
