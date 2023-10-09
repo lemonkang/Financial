@@ -4,7 +4,7 @@ const Two = () => {
   return (
     <div>
       <div>
-        mian
+        six
       </div>
     </div>
   )
