@@ -2,6 +2,8 @@ import React from 'react'
 
 export const Six = () => {
   return (
-    <div>Six</div>
+    <div>
+        <h2>1</h2>
+    </div>
   )
 }
