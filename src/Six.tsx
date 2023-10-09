@@ -7,6 +7,7 @@ export const Six = () => {
         <h2>2</h2>
         <h2>3</h2>
         <h2>4</h2>
+        finish
     </div>
   )
 }
