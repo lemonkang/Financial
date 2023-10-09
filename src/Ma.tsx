@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Ma = () => {
+const Two = () => {
   return (
     <div>Maasd
         <div>asdf</div>
@@ -8,3 +8,4 @@ export const Ma = () => {
     </div>
   )
 }
+export default Two
