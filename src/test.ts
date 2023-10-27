@@ -1,4 +1,4 @@
 export const test = () => {
-  const num = 1
-  return num
+  const nsum = 1
+  return nsum
 }
